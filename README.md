@@ -3,6 +3,11 @@
 A basic blog website built with React — part of the [Net Ninja React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).  
 This project helped me build intuition around routing, state, components, and React hooks.
 
+## Screenshots
+
+![Screenshot 1](./assets/image1.png)
+![Screenshot 2](./assets/image2.png)
+
 ## ✨ Features
 
 - React Router DOM (`<Route>`, dynamic routes, `useParams`)
