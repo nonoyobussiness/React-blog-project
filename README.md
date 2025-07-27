@@ -1,6 +1,6 @@
 # 🥷 React Ninja Blog
 
-A basic blog website built with React — part of the [Net Ninja React Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT).  
+A basic blog website built with React — part of the [Net Ninja React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).  
 This project helped me build intuition around routing, state, components, and React hooks.
 
 ## ✨ Features
@@ -21,8 +21,9 @@ This project helped me build intuition around routing, state, components, and Re
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-ninja-blog.git
-cd react-ninja-blog
+git clone https://github.com/nonoyobussiness/React-blog-project
+cd React-blog-project
 npm install
 npm start
+npx json-server --watch data/db.json --port 8000
 ```
